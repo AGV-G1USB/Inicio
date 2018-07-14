@@ -1,10 +1,13 @@
 # Inicio
 
 **Autores del proyecto**: 
-*Jeckson Jaimes [12-10446]
-*Maria Gabriela Reyes [12-10509]
-*Anna Cafaro [12-10997]
-*Zadkiel Romero [12-11461]
+
+* Jeckson Jaimes [12-10446]
+
+* Maria Gabriela Reyes [12-10509]
+
+* Anna Cafaro [12-10997]
+* Zadkiel Romero [12-11461]
 
 **Proyecto**: Desarrollo de un robot móvil capaz de percibir objetos en un área determinada.
 
