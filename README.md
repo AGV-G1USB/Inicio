@@ -3,7 +3,7 @@
 **Autores del proyecto**: 
 
 * Jeckson Jaimes [12-10446].
-* Maria Gabriela Reyes [12-10509].
+* María Gabriela Reyes [12-10509].
 * Anna Cafaro [12-10997].
 * Zadkiel Romero [12-11461].
 
